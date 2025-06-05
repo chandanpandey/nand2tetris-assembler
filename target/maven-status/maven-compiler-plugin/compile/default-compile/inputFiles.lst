@@ -1,4 +1,5 @@
 /home/chad/nand2tetris/nand2tetris-assembler/assembler/src/main/java/org/n2tasm/FileIO.java
 /home/chad/nand2tetris/nand2tetris-assembler/assembler/src/main/java/org/n2tasm/Main.java
+/home/chad/nand2tetris/nand2tetris-assembler/assembler/src/main/java/org/n2tasm/SymbolTable.java
 /home/chad/nand2tetris/nand2tetris-assembler/assembler/src/main/java/org/n2tasm/Code.java
 /home/chad/nand2tetris/nand2tetris-assembler/assembler/src/main/java/org/n2tasm/Parser.java
